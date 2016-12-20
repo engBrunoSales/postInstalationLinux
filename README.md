@@ -21,6 +21,6 @@ Conjunto de pacotes a serem instalados após instalação de um sistema linux.
 [nativefier](https://www.npmjs.com/package/nativefier)
 
 ## 3 - RvmPostInstallation
-	- Instalar a versão 2.3 do ruby
-	- bundler
-	- bunle
+[ruby2.3.3](https://cache.ruby-lang.org/pub/ruby/2.3/ruby-2.3.3.tar.gz)
+
+[bundler](http://bundler.io/)
